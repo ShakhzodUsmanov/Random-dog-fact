@@ -1,0 +1,46 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-image: url("https://random.dog/vh7i79y2qhhy.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: cursive;
+}
+
+.fact{
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 3px black;
+  backdrop-filter: blur(5px);
+  width: 100%;
+  padding: 30px 100px;
+
+}
+
+.btn{
+  padding: 10px 20px;
+  background-color: black;
+  color: white;
+  position: absolute;
+  top: 20px;
+  right: 20px; 
+  border: none;
+  border-radius: 10px;
+  transition: 0.2s;
+}
+
+.btn:hover{
+  transform: scale(1.05);
+}
+
+.btn:active{
+  transform: scale(0.95);
+}
