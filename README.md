@@ -10,7 +10,7 @@ A simple web project that displays a random dog fact and sets a random dog image
 - Disables the button while loading new data
 
 ## 📸 Preview
-![Project Screenshot](https://via.placeholder.com/800x400?text=Random+Dog+Facts+App)
+![Project Screenshot](./preview/web-preview2.png)
 
 ## 🛠️ Technologies Used
 - HTML
